@@ -18,8 +18,8 @@ html { float: right;
     overflow:hidden; }
 
 body { 
-    width: 100%; 
-    height:100%;
+    width: 50%; 
+    height:50%;
     font-family: 'Open Sans', sans-serif;
     background-image: url("Pizza jpg.jpg");
     background-repeat: no-repeat;
