@@ -30,6 +30,9 @@ body {
     text-align:center;
     letter-spacing:1.2px;
 }
+body{
+	background-size:1380px:
+}
 .login { 
 	position: absolute;
 	top: 40%;
